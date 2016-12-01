@@ -1,0 +1,6 @@
+2 4
+Check complete.
+Declaration complete.
+Mesh initialization complete.
+Algorithm initialization complete.
+Propagation complete.
